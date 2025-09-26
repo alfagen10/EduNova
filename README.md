@@ -1,3 +1,7 @@
+# 🚀 EduNova – Inclusive AI Learning Platform  
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## ⚡ TL;DR
 EduNova is an **AI-powered inclusive learning platform** that delivers knowledge in multiple formats — **chat, ebooks, visuals, audio, and video**.  
 It adapts to different learning styles and accessibility needs, making education more **personalized, engaging, and inclusive**.
